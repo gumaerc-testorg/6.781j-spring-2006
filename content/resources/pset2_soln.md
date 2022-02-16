@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains problem solutions for homework assignment 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-781j-submicrometer-and-nanometer-technology-spring-2006/76638f68d4472495f5ce282df2b8bcc9_pset2_soln.pdf
+file: /media/courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/76638f68d4472495f5ce282df2b8bcc9_pset2_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset2_soln.pdf
 uid: 76638f68-d447-2495-f5ce-282df2b8bcc9

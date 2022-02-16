@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-781j-submicrometer-and-nanometer-technology-spring-2006/10b2cda2c9b27c4c457ba32bd65e4e6a_pset_11.pdf
+file: /media/courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/10b2cda2c9b27c4c457ba32bd65e4e6a_pset_11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset_11.pdf
 uid: 10b2cda2-c9b2-7c4c-457b-a32bd65e4e6a
