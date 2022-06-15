@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/69e0e20b72998e17a6992e151b8fae7b_chp_stem.jpg
+file: /courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/69e0e20b72998e17a6992e151b8fae7b_chp_stem.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

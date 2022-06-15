@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/d22f9e12bff56a30b6e14ae1c077af1a_pset_09.pdf
+file: /courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/d22f9e12bff56a30b6e14ae1c077af1a_pset_09.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: pset_09.pdf
 uid: d22f9e12-bff5-6a30-b6e1-4ae1c077af1a
 ---
+Homework assignment.
+
