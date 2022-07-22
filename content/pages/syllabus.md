@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains course prerequisites, academic conduct, grading
+  criteria, learning objectives and a calendar covering all the topics and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e9ddffea-fff4-ed4f-a0dc-d9798f72307a
 ---

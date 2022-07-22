@@ -1,38 +1,42 @@
 ---
 content_type: page
+description: This section contains assignment and solution files for the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d6d1b710-be1f-17f8-718b-a246d2d9a2a4
 ---
 
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset_01))
+Problem Set 1 ({{% resource_link cddafc79-3ffa-b311-8541-fd39ee758476 "PDF" %}})
 
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset_02))
+Problem Set 2 ({{% resource_link 0dadc89a-c8b7-146a-4374-3f1dcc8b4518 "PDF" %}})
 
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset_03))
+Problem Set 3 ({{% resource_link 8bc3e488-0ba5-edca-50d4-1b1a9ed99999 "PDF" %}})
 
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset_04))
+Problem Set 4 ({{% resource_link b04975fd-7ad2-2476-5042-e551e48d6d24 "PDF" %}})
 
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset_05))
+Problem Set 5 ({{% resource_link 20e23910-fae1-b907-d092-b05a84e34a4e "PDF" %}})
 
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/pset_06))
+Problem Set 6 ({{% resource_link 3241c1a9-7d13-c24f-4260-9aa2539fe298 "PDF" %}})
 
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/pset_07))
+Problem Set 7 ({{% resource_link 4c3fd452-f8b6-74d8-69ed-b5fa59e8e54a "PDF" %}})
 
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/pset_08))
+Problem Set 8 ({{% resource_link c937a618-56cb-965b-9a9e-5a80daa66a9e "PDF" %}})
 
-Problem Set 9 ([PDF]({{< baseurl >}}/resources/pset_09))
+Problem Set 9 ({{% resource_link d22f9e12-bff5-6a30-b6e1-4ae1c077af1a "PDF" %}})
 
-Problem Set 10 ([PDF]({{< baseurl >}}/resources/pset_10))
+Problem Set 10 ({{% resource_link 8b9980bd-5e5c-9f11-af21-ca12b95df8b7 "PDF" %}})
 
-Problem Set 11 ([PDF]({{< baseurl >}}/resources/pset_11))
+Problem Set 11 ({{% resource_link 10b2cda2-c9b2-7c4c-457b-a32bd65e4e6a "PDF" %}})
 
-Problem Set 12a ([PDF]({{< baseurl >}}/resources/pset_12a))
+Problem Set 12a ({{% resource_link 8b773da0-f2de-66e5-333a-423c22f458a6 "PDF" %}})
 
-Problem Set 12b ([PDF]({{< baseurl >}}/resources/pset_12b))
+Problem Set 12b ({{% resource_link 646238a7-79c7-2086-6939-fc4cddb4904f "PDF" %}})
 
-Problem Set 13 ([PDF]({{< baseurl >}}/resources/pset_13))
+Problem Set 13 ({{% resource_link f1fcce40-0d9b-5875-ece8-3382538db790 "PDF" %}})
 
-Final Assignment ([PDF]({{< baseurl >}}/resources/final))
+Final Assignment ({{% resource_link 01e9a704-ae55-647c-93c8-cee1f85a08b2 "PDF" %}})
 
 Readings for Final Assignment
 -----------------------------
