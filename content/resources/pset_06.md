@@ -5,6 +5,7 @@ file: /courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/3241c1a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset_06.pdf
 uid: 3241c1a9-7d13-c24f-4260-9aa2539fe298
 ---
 Homework assignment.
-

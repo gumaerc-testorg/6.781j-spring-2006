@@ -5,6 +5,7 @@ file: /courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/71cf71c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset5_soln.pdf
 uid: 71cf71c4-e92a-d217-f9f0-4331b30c6047
 ---
 This resource contains problem solutions for homework assignment 5.
-
