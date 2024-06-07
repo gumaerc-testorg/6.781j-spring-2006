@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/4e1e95024c60c936b3ff38244250dd49_final_soln.pdf
+file_size: 371584
 file_type: application/pdf
 learning_resource_types:
 - Assignments
