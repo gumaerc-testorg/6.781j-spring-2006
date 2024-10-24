@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem solutions for homework assignment 8.
-file: /courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/fa5dbed69fa273acf0519630f575d1ad_pset8_soln.pdf
+file: /ol-ocw-studio-app/courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/fa5dbed69fa273acf0519630f575d1ad_pset8_soln.pdf
 file_size: 74192
 file_type: application/pdf
 learning_resource_types:
