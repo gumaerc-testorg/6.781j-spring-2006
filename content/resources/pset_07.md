@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/4c3fd452f8b674d869edb5fa59e8e54a_pset_07.pdf
+file: /courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/4c3fd452f8b674d869edb5fa59e8e54a_pset_07.pdf
 file_size: 87594
 file_type: application/pdf
 learning_resource_types:
