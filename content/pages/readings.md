@@ -26,4 +26,4 @@ Goodberlet, James G. "Patterning Sub-50 nm Features with Near-field Embedded-amp
 
 Gerlach, Robert, and M. Utlaut. "Focused Ion Beam Methods of Nanofabrication: Room at the Bottom." *Proceedings of SPIE* 4510 (2001).
 
-Presentations and articles from the {{% resource_link "476b26f8-c473-47fe-a288-0d91406e1ebe" "NanoStructures Laboratory" %}}
+Presentations and articles from the [NanoStructures Laboratory](https://www.rle.mit.edu/nanostructures-laboratory/)
